@@ -10,12 +10,16 @@
 @import "../atoms/main/input.css";
 @import "../atoms/main/label.css";
 @import "../atoms/footer/footer-subtitle.css";
+@import "../atoms/main/thumb-project.css";
 
 /* Molecules */
 @import "../molecules/navigation-links.css";
 @import "../molecules/asode-social-icon.css";
 @import "../molecules/main-about.css";
-
+@import "../molecules/main-contact.css";
+@import "../molecules/main__contact__form.css";
+@import "../molecules/description-block.css";
+@import "../molecules/main-projects-thumb-list.css";
 /*pages*/
 @import "../pages/grid.css";
 
