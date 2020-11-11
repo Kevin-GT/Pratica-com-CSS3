@@ -1,4 +1,11 @@
 .main__description {
   font-family: montserrat-light;
   font-size: 1em;
+  padding: 20px 10px;
+}
+
+@media screen and (max-width: 600px) {
+  .main__description {
+    padding: 0;
+  }
 }
